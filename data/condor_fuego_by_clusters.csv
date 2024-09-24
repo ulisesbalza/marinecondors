@@ -1,0 +1,118 @@
+Location,Spp,FG,d13C,d15N
+idle,condor_marine,condor_marine,-19.3,14.1
+idle,condor_marine,condor_marine,-17.5,13
+idle,condor_marine,condor_marine,-21.2,11.1
+idle,condor_marine,condor_marine,-21.2,12.2
+idle,condor_marine,condor_marine,-16.6,17.8
+mitre,condor_marine,condor_marine,-18.6,15.8
+mitre,condor_marine,condor_marine,-15.7,18.6
+karukinka,condor_marine,condor_marine,-20.6,13.7
+karukinka,condor_marine,condor_marine,-18.4,14.2
+karukinka,condor_marine,condor_marine,-18,14.6
+karukinka,condor_marine,condor_marine,-18.7,13.9
+karukinka,condor_marine,condor_marine,-17.6,17.1
+idle,condor_terrestrial,condor_terrestrial,-23.6,10.5
+idle,condor_terrestrial,condor_terrestrial,-23.2,8.9
+idle,condor_terrestrial,condor_terrestrial,-22.8,11.2
+mitre,condor_terrestrial,condor_terrestrial,-24.6,9
+mitre,condor_terrestrial,condor_terrestrial,-23.8,10.3
+mitre,condor_terrestrial,condor_terrestrial,-22.4,11
+mitre,condor_terrestrial,condor_terrestrial,-22.8,11.6
+mitre,condor_terrestrial,condor_terrestrial,-23.8,8.8
+mitre,condor_terrestrial,condor_terrestrial,-23,11.6
+mitre,condor_terrestrial,condor_terrestrial,-23.6,9.8
+mitre,condor_terrestrial,condor_terrestrial,-24.4,10.2
+mitre,condor_terrestrial,condor_terrestrial,-24.3,9.2
+mitre,condor_terrestrial,condor_terrestrial,-23.5,10.3
+mitre,condor_terrestrial,condor_terrestrial,-25.1,8.9
+mitre,condor_terrestrial,condor_terrestrial,-25,10
+centro,condor_terrestrial,condor_terrestrial,-24.8,9.6
+karukinka,condor_terrestrial,condor_terrestrial,-25,9.7
+karukinka,condor_terrestrial,condor_terrestrial,-25.1,8.9
+karukinka,condor_terrestrial,condor_terrestrial,-25.2,8.3
+karukinka,condor_terrestrial,condor_terrestrial,-25.3,10.4
+karukinka,condor_terrestrial,condor_terrestrial,-24.4,9.9
+karukinka,condor_terrestrial,condor_terrestrial,-25.4,10.6
+karukinka,condor_terrestrial,condor_terrestrial,-25.6,8
+karukinka,condor_terrestrial,condor_terrestrial,-24.8,8.9
+karukinka,condor_terrestrial,condor_terrestrial,-23.1,10.7
+karukinka,condor_terrestrial,condor_terrestrial,-25.3,8.4
+karukinka,condor_terrestrial,condor_terrestrial,-25.8,9
+karukinka,condor_terrestrial,condor_terrestrial,-25.7,8.2
+karukinka,condor_terrestrial,condor_terrestrial,-24.6,8.7
+karukinka,condor_terrestrial,condor_terrestrial,-24.7,9.7
+karukinka,condor_terrestrial,condor_terrestrial,-23.7,10.8
+Fuego,Cervus elaphus,terrestrial,-28.18565855,20.01030212
+Fuego,Cervus elaphus,terrestrial,-20.10946736,5.020408904
+Fuego,Cervus elaphus,terrestrial,-27.69205795,7.741315014
+Fuego,Cervus elaphus,terrestrial,-28.65845712,5.014596259
+Fuego,Cervus elaphus,terrestrial,-26.49869098,20.11623635
+Fuego,Capra aegagrus,terrestrial,-27.87691479,19.40900059
+Fuego,Cervus elaphus,terrestrial,-28.3817911,15.58755124
+Fuego,Cervus elaphus,terrestrial,-26.91214157,17.1365985
+Fuego,Cervus elaphus,terrestrial,-28.99028143,15.07517276
+Fuego,Cervus elaphus,terrestrial,-25.67621448,1.114718593
+Fuego,Cervus elaphus,terrestrial,-28.54790315,11.21219479
+Fuego,Cervus elaphus,terrestrial,-27.53777562,5.284258269
+Fuego,Cervus elaphus,terrestrial,-27.75618261,1.770261919
+Fuego,Cervus elaphus,terrestrial,-28.23707174,8.560367105
+Fuego,Cervus elaphus,terrestrial,-27.96136914,10.23926478
+Fuego,Mytilus sp,marine,-15.09475884,10.21227779
+Fuego,Mytilus sp,marine,-14.33343239,11.32160861
+Fuego,Mytilus sp,marine,-14.63951771,11.51604767
+Fuego,Mytilus sp,marine,-14.53913136,10.5648873
+Fuego,Mytilus sp,marine,-14.73875838,10.59974297
+Fuego,Mytilus sp,marine,-16.27423788,9.919936426
+Fuego,Mytilus sp,marine,-16.33393503,9.565541564
+Fuego,Mytilus sp,marine,-16.25204001,9.659331119
+Fuego,Mytilus sp,marine,-15.74684091,9.871704474
+Fuego,Mytilus sp,marine,-16.27102816,8.975713835
+Fuego,Cervus elaphus,terrestrial,-23.93789544,5.786956083
+Fuego,Cervus elaphus,terrestrial,-27.14607947,11.47750075
+Fuego,Cervus elaphus,terrestrial,-25.01510388,9.520096869
+Fuego,Capra aegagrus,terrestrial,-24.66207281,3.341822469
+Fuego,Cervus elaphus,terrestrial,-24.99041123,1.191364511
+Fuego,chloephaga,terrestrial,-26,17.7
+Fuego,Lama guanicoe,terrestrial,-23.8,2.5
+Fuego,Bos taurus,terrestrial,-23.7,4
+Fuego,Mytilus sp,marine,-17.4,11
+Fuego,Mytilus sp,marine,-16.6,12.1
+Fuego,Mytilus sp,marine,-16.7,11
+Fuego,Mytilus sp,marine,-19.11552415,12.70213351
+Fuego,Mytilus sp,marine,-18.21147168,11.49015428
+Fuego,Mytilus sp,marine,-18.94258635,11.6999206
+Fuego,Mytilus sp,marine,-18.12372506,11.60649064
+Fuego,Mytilus sp,marine,-18.36732353,11.39683624
+Fuego,Mytilus sp,marine,-18.82001027,11.23646153
+Fuego,Mytilus sp,marine,-19.084199,11.62620995
+Fuego,Mytilus sp,marine,-19.63332149,10.96326872
+Fuego,Mytilus sp,marine,-17.43684853,11.70665984
+Fuego,Mytilus sp,marine,-18.75297138,12.68747022
+Fuego,Mytilus sp,marine,-18.8894436,11.45415439
+Fuego,Mytilus sp,marine,-18.75378432,12.34610584
+Fuego,Mytilus sp,marine,-17.90072915,11.60602297
+Fuego,Mytilus sp,marine,-19.41032865,12.52362053
+Fuego,Mytilus sp,marine,-18.44941601,11.56832361
+Fuego,Mytilus sp,marine,-20.50508949,11.58443959
+Fuego,Mytilus sp,marine,-20.00303749,11.75939684
+Fuego,Mytilus sp,marine,-19.20310561,12.50243129
+Fuego,Mytilus sp,marine,-16.92694707,12.69143422
+Fuego,Mytilus sp,marine,-16.83268691,12.04323891
+Fuego,Mytilus sp,marine,-16.97251065,12.5605212
+Fuego,Mytilus sp,marine,-17.0745179,12.1941195
+Fuego,Mytilus sp,marine,-17.33531296,11.53910891
+Fuego,Mytilus sp,marine,-16.63696535,12.22528137
+Fuego,Mytilus sp,marine,-17.08374458,12.2169614
+Fuego,Mytilus sp,marine,-16.93094747,12.01689683
+Fuego,Mytilus sp,marine,-17.58768366,11.7612046
+Fuego,Mytilus sp,marine,-17.82003496,12.31057681
+Fuego,Mytilus sp,marine,-15.96366967,9.429108484
+Fuego,Mytilus sp,marine,-15.95224733,9.874153752
+Fuego,Mytilus sp,marine,-15.67675698,10.49709847
+Fuego,Mytilus sp,marine,-16.21432204,10.22085448
+Fuego,Mytilus sp,marine,-15.97233861,10.08866147
+Fuego,Mytilus sp,marine,-16.04830624,9.580721308
+Fuego,Mytilus sp,marine,-15.72344519,10.01858494
+Fuego,Mytilus sp,marine,-16.32115079,9.516383199
+Fuego,Mytilus sp,marine,-15.83692226,10.52789182
+Fuego,Mytilus sp,marine,-16.05207027,10.04602857
